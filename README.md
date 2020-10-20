@@ -25,7 +25,7 @@ Página para editar os detalhes do aluno:
 Repare que no aluno sendo editado, o professor só poderá mudar o nome e notas do aluno pois o sistema gera automaticamente a média e situação:
 <img src="https://i.imgur.com/qFdVpVA.jpg"><br/>
 
-O aluno depois de ser editado:
+O aluno com nome, nota e média editado:
 <img src="https://i.imgur.com/3v3Kcg5.jpg"><br/>
 
 
